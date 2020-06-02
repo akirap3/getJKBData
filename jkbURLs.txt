@@ -1,0 +1,4 @@
+Shaanxi
+https://monitoring.cloudwise.com/monitoring/#/taskdata/snapshots/monitorlist?task_id=xxxxxx&monitor_id=xx
+Shanghai
+https://monitoring.cloudwise.com/monitoring/#/taskdata/snapshots/monitorlist?task_id=xxxxxx&monitor_id=xx
